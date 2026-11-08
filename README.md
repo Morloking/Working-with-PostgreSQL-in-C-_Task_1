@@ -24,7 +24,7 @@ cmake --build build --config Release
 
 
 
-##If your configuration differs, you need to update the relevant constants in consts.h:
+## If your configuration differs, you need to update the relevant constants in consts.h:
 
 ***inline constexpr std::string_view kDbHost = "your_localhost";***
 
