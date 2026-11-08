@@ -2,7 +2,6 @@ build/
 out/
 *.exe
 
-vcpkg_installed/
 
 .vs/
 *.user
