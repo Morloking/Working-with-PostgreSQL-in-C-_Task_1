@@ -1,0 +1,11 @@
+build/
+out/
+*.exe
+
+vcpkg_installed/
+
+.vs/
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
