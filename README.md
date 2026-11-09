@@ -36,3 +36,6 @@ cmake --build build --config Release
 
 ***inline constexpr std::string_view kDbPassword = "your_password";***
 
+## I specified my PostgreSQL path here.
+## If your path is different, change it before building.
+set(PostgreSQL_ROOT "C:/Program Files/PostgreSQL/18")
